@@ -10,7 +10,7 @@
       <texPath>Things/Rock/WeatheredBasalt</texPath>
       <graphicClass>Graphic_Random</graphicClass>
       <drawSize>(4,4)</drawSize>
-      <color>(51.51.51)</color>
+      <color>(51,51,51)</color>
     </graphicData>
     <uiIconPath>Things/Rock/WeatheredBasalt/WeatheredBasaltA</uiIconPath>
     <statBases>
@@ -99,7 +99,7 @@
       <texPath>Things/Rock/WeatheredBasalt</texPath>
       <graphicClass>Graphic_Random</graphicClass>
       <drawSize>(4,4)</drawSize>
-      <color>(51.51.51)</color>
+      <color>(51,51,51)</color>
     </graphicData>
     <uiIconPath>Things/Rock/WeatheredBasalt/WeatheredBasaltA</uiIconPath>
     <statBases>
@@ -203,7 +203,7 @@
 				<edgeLeft>Damage/Edge</edgeLeft>
 				<edgeRight>Damage/Edge</edgeRight>
 			</damageData>
-      <color>(51.51.51)</color>
+      <color>(51,51,51)</color>
     </graphicData>
     <uiIconPath>Things/Rock/HewnRockWall/bandered/banderedA</uiIconPath>
     <statBases>
@@ -319,7 +319,7 @@
 				<edgeLeft>Damage/Edge</edgeLeft>
 				<edgeRight>Damage/Edge</edgeRight>
 			</damageData>
-      <color>(51.51.51)</color>
+      <color>(51,51,51)</color>
     </graphicData>
     <uiIconPath>Things/Rock/SmoothedRockWall/SmoothedRockWallA</uiIconPath>
     <statBases>
@@ -377,7 +377,7 @@
       <texPath>Things/Rock/WeatheredSlate</texPath>
       <graphicClass>Graphic_Random</graphicClass>
       <drawSize>(4,4)</drawSize>
-      <color>(51.51.51)</color>
+      <color>(51,51,51)</color>
     </graphicData>
     <uiIconPath>Things/Rock/WeatheredSlate/WeatheredSlateA</uiIconPath>
     <statBases>
@@ -489,7 +489,7 @@
       <texPath>Things/Rock/PassableSlate</texPath>
       <graphicClass>Graphic_Random</graphicClass>
       <drawSize>(1.5,1.5)</drawSize>
-      <color>(51.51.51)</color>
+      <color>(51,51,51)</color>
       <damageData>
         <enabled>false</enabled>
       </damageData>
